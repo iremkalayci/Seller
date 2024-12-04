@@ -3,7 +3,7 @@
     "id": 1,
     "name":  "İstatistik ve Olasılık, 2.el",
     "price": "400",
-    "stock":50,
+    "stock":20,
     "isOnSale":true,
     "url": "https://github.com/iremkalayci/ProductsImages/blob/main/%C4%B0STAT%C4%B0ST%C4%B0K.jpg?raw=true"
   },
@@ -11,7 +11,7 @@
     "id": 2,
     "name": "İktisat",
     "price": "90",
-    "stock":50,
+    "stock":70,
     "isOnSale":true,
     "url": "https://github.com/iremkalayci/ProductsImages/blob/main/%C4%B0KT%C4%B0SAT.png?raw=true"
   },
@@ -19,7 +19,7 @@
     "id": 3,
     "name": "Fizik-I, Serway 2.El",
     "price": "350",
-"stock":50,
+"stock":120,
     "isOnSale":true,
     "url": "https://github.com/iremkalayci/ProductsImages/blob/main/serway.jpg?raw=true"
   },
@@ -27,7 +27,7 @@
     "id": 4,
     "name": "F.Of Electric Circuits, 2.El",
     "price": "800",
-"stock":50,
+"stock":3,
     "isOnSale":true,
     "url": "https://github.com/iremkalayci/ProductsImages/blob/main/electric.jpg?raw=true"
   },
@@ -35,7 +35,7 @@
     "id": 5,
     "name": "Diferansiyel Denklemler, 2.El",
     "price": "280",
-"stock":50,
+"stock":2,
     "isOnSale":true,
     "url": "https://github.com/iremkalayci/ProductsImages/blob/main/dif.jpg?raw=true"
   },
@@ -43,7 +43,7 @@
     "id": 6,
     "name": "KOÜ Tıp Ders Notları",
     "price": "170",
-"stock":50,
+"stock":300,
     "isOnSale":true,
     "url": "https://github.com/iremkalayci/ProductsImages/blob/main/TIP.png?raw=true"
   },
@@ -51,7 +51,7 @@
  "id": 7,
         "name": "Çağdaş Siyasal Teori",
         "price": "70",
-"stock":50,
+"stock":100,
     "isOnSale":true,
         "url": "https://github.com/iremkalayci/ProductsImages/blob/main/SIYSASET.png?raw=true"
 },
@@ -59,14 +59,14 @@
  "id": 8,
         "name": "Python-Atıl Samancıoğlu,2.El ",
         "price": "200",
-"stock":50,
+"stock":2,
     "isOnSale":true,
         "url": "https://github.com/iremkalayci/ProductsImages/blob/main/PYTHON.jpg?raw=true"
 },
  { "id":9,
    "name":"KOÜ PDR Eğitime Giriş",
 "price":"120",
-"stock":50,
+"stock":200,
     "isOnSale":true,
 "url":"https://github.com/iremkalayci/ProductsImages/blob/main/PDR.png?raw=true"
 },
@@ -74,7 +74,7 @@
 "name":"KOÜ Miras Hukuku",
 
 "price":"180",
-"stock":50,
+"stock":200,
     "isOnSale":true,
 "url":"https://github.com/iremkalayci/ProductsImages/blob/main/M%C4%B0RASHUKUKU.png?raw=true"
 
@@ -84,7 +84,7 @@
 {"id":11,
 "name":"Murat Yücedağ C# 2.El",
 "price":"180",
-"stock":50,
+"stock":1,
     "isOnSale":true,
 "url":"https://github.com/iremkalayci/ProductsImages/blob/main/MURATYUCEDAG_C%23.jpg?raw=true"
 },
@@ -92,7 +92,7 @@
 {"id":12,
 "name":"KOÜ Medeni Hukuk",
 "price":"280",
-"stock":50,
+"stock":180,
     "isOnSale":true,
 "url":"https://github.com/iremkalayci/ProductsImages/blob/main/MEDEN%C4%B0%20HUKUK.png?raw=true"
 },
@@ -108,7 +108,7 @@
 {"id":14,
 "name":"KOÜ Tıp Fak Ders Notları",
 "price":"170",
-"stock":50,
+"stock":230,
     "isOnSale":true,
 "url":"https://github.com/iremkalayci/ProductsImages/blob/main/GENET%C4%B0KGEL%C4%B0S%C4%B0M.png?raw=true"
 
